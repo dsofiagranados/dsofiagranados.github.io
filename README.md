@@ -25,6 +25,7 @@ Personal/professional website. Plain HTML/CSS/JS, no build step, no dependencies
 - `styles.css` — styling, light/dark theme via CSS variables
 - `script.js` — dark-mode toggle (persisted in `localStorage`)
 - `.nojekyll` — tells GitHub Pages not to run this through Jekyll
+- `robots.txt` — allows all crawlers
 
 ## Local preview
 
