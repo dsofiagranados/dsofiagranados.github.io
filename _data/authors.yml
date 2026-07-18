@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+D. Sofía Granados:
+  name        : "D. Sofía Granados"
+  email       : "dsofiagranados@ucla.edu"
+  bio         : "Political Science PhD candidate at UCLA studying political violence, armed conflict, and research ethics."
+  avatar      : "profile.png"
+  github      : "dsofiagranados"
+  linkedin    : "dankat-sofia-granados-sotelo"
+  orcid       : "https://orcid.org/0009-0000-5312-956X"
