@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 <div class="home-hero">
+  <div class="home-hero__banner"></div>
   <img class="home-hero__avatar" src="/images/profile.png" alt="D. Sofía Granados">
   <h1 class="home-hero__name">D. Sofía Granados</h1>
   <p class="home-hero__title">Political Science PhD Candidate · UCLA</p>
