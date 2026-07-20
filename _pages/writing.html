@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Writing"
+permalink: /writing/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>Policy and public-facing writing on research methods and data collection, drawn from my work at Innovations for Poverty Action:</p>
+
+{% for post in site.publications reversed %}
+  {% if post.category == 'writing' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}

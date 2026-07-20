@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>My research examines political violence, armed conflict, and the ethics and methodology of studying sensitive topics, with ongoing interests in land, gender, and rural inequality in Colombia. Selected papers and projects:</p>
+
+{% for post in site.publications reversed %}
+  {% if post.category == 'working' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
