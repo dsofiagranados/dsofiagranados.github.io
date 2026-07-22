@@ -29,7 +29,7 @@ Much of my work is grounded in years of field experience designing and leading b
 Before starting my PhD, I spent several years at [Innovations for Poverty Action (IPA)](https://www.poverty-action.org/) in Colombia, where I planned and supervised in-person and remote data collection, designed WhatsApp and SurveyCTO instruments for hard-to-reach populations, and managed research projects on migration, early childhood education, and youth development.
 
 
-### Affiliations
+## Affiliations
 
 * [California Center for Population Research](https://ccpr.ucla.edu/) - Student Affiliate
 
