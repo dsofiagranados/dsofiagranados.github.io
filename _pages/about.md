@@ -10,7 +10,7 @@ redirect_from:
   <div class="home-hero__banner"></div>
   <img class="home-hero__avatar" src="/images/profile.png" alt="D. Sofía Granados">
   <h1 class="home-hero__name">D. Sofía Granados</h1>
-  <p class="home-hero__title">Political Science PhD Candidate · UCLA</p>
+  <p class="home-hero__title">Political Science PhD Student · UCLA</p>
   <p class="home-hero__links">
     <a class="home-hero__btn" href="/files/Sofia_Granados_CV.pdf">CV</a>
     <a class="home-hero__btn" href="mailto:dsofiagranados@ucla.edu">Email</a>
@@ -20,7 +20,7 @@ redirect_from:
   </p>
 </div>
 
-I'm a Political Science PhD candidate at the University of California, Los Angeles (UCLA). I hold a B.A. in Economics and a B.A. in Political Science, along with minors in Development Studies and in German Language and Culture, all from Universidad de los Andes in Colombia.
+I'm a Political Science PhD student at the University of California, Los Angeles (UCLA). I hold a B.A. in Economics and a B.A. in Political Science, along with minors in Development Studies and in German Language and Culture, all from Universidad de los Andes in Colombia.
 
 My research centers on **peace studies, armed conflict, political violence, and research ethics**, alongside long-standing interests in early childhood education, migration, state capacity, and the inequalities faced by rural women. I'm especially interested in how we can study sensitive and high-risk topics rigorously while protecting the safety and dignity of participants and field staff.
 
