@@ -12,7 +12,7 @@ redirect_from:
   <h1 class="home-hero__name">D. Sofía Granados</h1>
   <p class="home-hero__title">Political Science PhD Student · UCLA</p>
   <p class="home-hero__links">
-    <a class="home-hero__btn" href="/files/D. Sofia Granados - CV.pdf">CV</a>
+    <a class="home-hero__btn" href="/files/Sofia_Granados_CV.pdf">CV</a>
     <a class="home-hero__btn" href="mailto:dsofiagranados@ucla.edu">Email</a>
     <a class="home-hero__btn" href="https://github.com/dsofiagranados">GitHub</a>
     <a class="home-hero__btn" href="https://orcid.org/0009-0000-5312-956X">ORCID</a>
