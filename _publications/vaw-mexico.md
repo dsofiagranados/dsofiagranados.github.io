@@ -1,8 +1,9 @@
 ---
 title: "Violence Against Women and Political Participation in Mexico"
 order: 6
-excerpt: "Through the Mexican case, we aim to understand the effects of exposure to gender-based violence on political participation using mixed methods.
-"
+excerpt: "Through the Mexican case, we aim to understand the effects of exposure to gender-based violence on political participation using mixed methods."
+collection: publications
+category: working
 ---
 *With Ariadna Chuaqui.*
 
