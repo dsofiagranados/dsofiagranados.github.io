@@ -231,6 +231,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /research/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -280,6 +283,13 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _projects (one page per research project, listed on the Research page)
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
   # _talks
   - scope:
       path: ""

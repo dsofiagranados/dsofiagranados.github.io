@@ -13,20 +13,18 @@ author_profile: true
 
 <p>My dissertation develops a theory of the heterogeneous, long-term effects of violence and asks how they can inform peace-building and early-childhood policy in post-conflict settings. It comprises three projects:</p>
 
+{% comment %}
+  Each project below comes from a file in the _projects folder.
+  To add a project: copy one of those files, rename it, and change the text.
+  "order" sets its position; "tag" is the small label next to the title.
+{% endcomment %}
+{% assign projects = site.projects | sort: "order" %}
+{% for project in projects %}
 <div class="diss-project">
-  <h3>Developmental timing of exposure <span class="tag">When</span></h3>
-  <p>Does the developmental stage at which a person first experiences violence shape their long-term attitudes toward the reintegration of ex-combatants? Drawing on the idea of sensitive periods, the project distinguishes early childhood, middle childhood, and adolescence, using Asking About Violence and Violence Against Children Survey data.</p>
+  <h3><a href="{{ base_path }}{{ project.url }}">{{ project.title }}</a>{% if project.tag %} <span class="tag">{{ project.tag }}</span>{% endif %}</h3>
+  <p>{{ project.excerpt }} <a href="{{ base_path }}{{ project.url }}">Read more&nbsp;&rarr;</a></p>
 </div>
-
-<div class="diss-project">
-  <h3>Armed-group governance and normalization <span class="tag">How</span></h3>
-  <p>Do people who lived under armed-group governance hold different political attitudes than those who experienced only armed-group presence, or neither? Using subnational variation across Colombian municipalities, the project develops normalization as the mechanism linking sustained exposure to political attitudes and behavior.</p>
-</div>
-
-<div class="diss-project">
-  <h3>Fostering empathy in conflict-affected children <span class="tag">Intervention</span></h3>
-  <p>Can a Theory of Mind intervention increase empathy toward out-groups among displaced and victimized children and adolescents? The project develops and evaluates an intervention to foster peace-building attitudes early in the life course.</p>
-</div>
+{% endfor %}
 
 <h2>Other research &amp; working papers</h2>
 
