@@ -2,6 +2,8 @@
 title: "State violence and support for peace: The Colombian case"
 order: 4
 excerpt: "Using Colombia’s “false positives” scandal, this study finds that exposure to state-perpetrated violence is associated with lower municipal-level support for peace, a preliminary result that is sensitive to confounding."
+collection: publications
+category: working
 ---
 *With Linette Page.*
 
