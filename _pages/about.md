@@ -10,7 +10,7 @@ redirect_from:
   <div class="home-hero__banner"></div>
   <img class="home-hero__avatar" src="/images/profile.png" alt="D. Sofía Granados">
   <h1 class="home-hero__name">D. Sofía Granados</h1>
-  <p class="home-hero__title">Political Science PhD Candidate · UCLA \n Statistics and Data Science M.S. Student · UCLA</p>
+  <p class="home-hero__title">Political Science PhD Candidate · UCLA <br> Statistics and Data Science M.S. Student · UCLA</p>
   <p class="home-hero__links">
     <a class="home-hero__btn" href="/files/Sofia_Granados_CV.pdf">CV</a>
     <a class="home-hero__btn" href="mailto:dsofiagranados@ucla.edu">Email</a>
