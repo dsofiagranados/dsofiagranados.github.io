@@ -4,6 +4,8 @@ order: 6
 excerpt: "Through the Mexican case, we aim to understand the effects of exposure to gender-based violence on political participation using mixed methods."
 collection: publications
 category: working
+date: 2026*
+venue: 'Working Paper'
 ---
 *With Ariadna Chuaqui.*
 
