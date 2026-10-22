@@ -4,7 +4,7 @@ order: 4
 excerpt: "Using Colombia’s “false positives” scandal, this study finds that exposure to state-perpetrated violence is associated with lower municipal-level support for peace, a preliminary result that is sensitive to confounding."
 collection: publications
 category: working
-date: 2026*
+date: 2027-01-01
 venue: 'Working Paper'
 ---
 *With Linette Page.*
