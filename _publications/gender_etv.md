@@ -3,7 +3,7 @@ title: "Gender and Exposure to Violence: The Colombian case"
 order: 5
 excerpt: "Using the Asking About Violence data, we examine whether gender moderates the relationship between exposure to violence and mental health outcomes in the Colombian case."
 collection: publications
-date: 2026*
+date: 2027-01-01
 venue: 'Working Paper'
 category: working
 ---
